@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tienda API</string>
+
+    <string name="title">Productos</string>
+</resources>
